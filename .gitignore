@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 
-Backend/.evn
+Backend/src/.evn
