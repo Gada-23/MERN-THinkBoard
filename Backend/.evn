@@ -1,6 +1,0 @@
-MONGO_URI= mongodb+srv://gadaakiyya003_db_user:92DHINhPI3Y6uc4d@cluster0.2jf73ge.mongodb.net/notes_db?appName=Cluster0
-PORT = 5001
-
-UPSTASH_REDIS_REST_URL=https://equal-panther-93728.upstash.io
-UPSTASH_REDIS_REST_TOKEN=gQAAAAAAAW4gAAIgcDJiYzJhYWZhYzk3ZDc0NmJmYWU4ZTIzOGE3OWMyNTc3Nw
-
